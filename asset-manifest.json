@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e4aaa0ff.css",
-    "main.js": "/static/js/main.0ed05db2.js",
-    "static/js/787.7ab45602.chunk.js": "/static/js/787.7ab45602.chunk.js",
-    "index.html": "/index.html",
-    "main.e4aaa0ff.css.map": "/static/css/main.e4aaa0ff.css.map",
-    "main.0ed05db2.js.map": "/static/js/main.0ed05db2.js.map",
-    "787.7ab45602.chunk.js.map": "/static/js/787.7ab45602.chunk.js.map"
+    "main.css": "/prekshas-meditab/todos/static/css/main.e4aaa0ff.css",
+    "main.js": "/prekshas-meditab/todos/static/js/main.43fdfd68.js",
+    "static/js/787.7ab45602.chunk.js": "/prekshas-meditab/todos/static/js/787.7ab45602.chunk.js",
+    "index.html": "/prekshas-meditab/todos/index.html",
+    "main.e4aaa0ff.css.map": "/prekshas-meditab/todos/static/css/main.e4aaa0ff.css.map",
+    "main.43fdfd68.js.map": "/prekshas-meditab/todos/static/js/main.43fdfd68.js.map",
+    "787.7ab45602.chunk.js.map": "/prekshas-meditab/todos/static/js/787.7ab45602.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e4aaa0ff.css",
-    "static/js/main.0ed05db2.js"
+    "static/js/main.43fdfd68.js"
   ]
 }
